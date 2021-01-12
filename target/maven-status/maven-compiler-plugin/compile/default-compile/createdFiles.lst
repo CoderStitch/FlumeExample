@@ -1,0 +1,3 @@
+com\stitch\flume\interceptor\CustomInterceptor$Builder.class
+com\stitch\MySource.class
+com\stitch\flume\interceptor\CustomInterceptor.class
